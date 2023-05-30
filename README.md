@@ -10,3 +10,19 @@ Quizzin, is an innovative user-friendly mobile application that offers an engagi
 * Question Page
 
 <img src = "https://github.com/Agrim2112/Quizzin/assets/128930038/f5746bf4-c88b-4a20-907f-f5b036d678a3" height =450 width =200> 
+
+* Selected Option 
+
+<img src = "https://github.com/Agrim2112/Quizzin/assets/128930038/5b147b48-23c3-4e88-a847-8b882d40cafa" height =450 width =200> 
+
+* Correct Answer 
+
+<img src = "https://github.com/Agrim2112/Quizzin/assets/128930038/f6afeca2-8f2f-46c7-b539-0afaf8de0084" height =450 width =200> 
+
+* Incorrect Answer 
+
+<img src = "https://github.com/Agrim2112/Quizzin/assets/128930038/f8d131bb-8e24-4a5f-8a49-d767be026750" height =450 width =200> 
+
+* Result Page 
+
+<img src = "https://github.com/Agrim2112/Quizzin/assets/128930038/512a2465-ee91-4b98-b29a-c731f27b0b67" height =450 width =200>
