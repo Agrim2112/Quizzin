@@ -3,7 +3,7 @@ Quizzin, is an innovative user-friendly mobile application that offers an engagi
 
 # Screenshots
 
-Welcome Page
+*Welcome Page
 
 <img src = "https://github.com/Agrim2112/Quizzin/assets/128930038/6d357333-5814-49db-ab6b-ae6b4de6fe05" height =450 width =200> 
 
