@@ -7,5 +7,6 @@ Quizzin, is an innovative user-friendly mobile application that offers an engagi
 
 <img src = "https://github.com/Agrim2112/Quizzin/assets/128930038/6d357333-5814-49db-ab6b-ae6b4de6fe05" height =450 width =200> 
 
+* Question Page
 
-![Screenshot_20230530_184316](https://github.com/Agrim2112/Quizzin/assets/128930038/f5746bf4-c88b-4a20-907f-f5b036d678a3)
+<img src = "https://github.com/Agrim2112/Quizzin/assets/128930038/f5746bf4-c88b-4a20-907f-f5b036d678a3" height =450 width =200> 
