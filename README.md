@@ -7,9 +7,17 @@ Quizzin, is an innovative user-friendly mobile application that offers an engagi
 
 <img src = "https://github.com/Agrim2112/Quizzin/assets/128930038/6d357333-5814-49db-ab6b-ae6b4de6fe05" height =450 width =200> 
 
-* Question Page
+* Mode Page
+
+<img src = "https://github.com/Agrim2112/Quizzin/assets/128930038/3d90b074-1ca5-4366-8162-86ba43893192" height =450 width =200> 
+
+* Normal Mode
 
 <img src = "https://github.com/Agrim2112/Quizzin/assets/128930038/f5746bf4-c88b-4a20-907f-f5b036d678a3" height =450 width =200> 
+
+* Race Against Time
+
+<img src = "https://github.com/Agrim2112/Quizzin/assets/128930038/2f6ca5d6-9d22-42fe-ab7a-d85ef2f15791" height =450 width =200> 
 
 * Selected Option 
 
@@ -26,3 +34,4 @@ Quizzin, is an innovative user-friendly mobile application that offers an engagi
 * Result Page 
 
 <img src = "https://github.com/Agrim2112/Quizzin/assets/128930038/512a2465-ee91-4b98-b29a-c731f27b0b67" height =450 width =200>
+
