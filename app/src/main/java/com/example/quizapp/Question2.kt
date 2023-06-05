@@ -18,11 +18,9 @@ class Question2 : AppCompatActivity() {
     private var questionList:ArrayList<QuestionModel>?=null
     private var selectedoption : Int = 0
 
-    private var timeselected: Int = 20
     private var timecountdown : CountDownTimer?=null
     private var timeprogress = 0
-    private var pauseoffset : Long=0
-    private var isstart = true
+
 
     private val questionno: TextView
         get() = findViewById(R.id.questionno)
@@ -53,12 +51,11 @@ class Question2 : AppCompatActivity() {
 
         Name=intent.getStringExtra(SetData.name)
 
-        questionList = SetData.getQuestion()
+        questionList = SetData.getQuestion2()
 
         SetQuestion()
         countdown()
 
-//        starttimer(pauseoffset)
 
         option1.setOnClickListener()
         {

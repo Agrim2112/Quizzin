@@ -43,7 +43,7 @@
         app:layout_constraintHorizontal_bias="0.706"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/questionno"
-        app:layout_constraintVertical_bias="0.221" />
+        app:layout_constraintVertical_bias="0.243" />
 
     <Button
         android:id="@+id/option2"
@@ -65,7 +65,7 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="60dp"
-        android:layout_marginTop="190dp"
+        android:layout_marginTop="220dp"
         android:layout_marginEnd="60dp"
         android:background="@drawable/optionbtn"
         android:text="AVD Manager"
@@ -141,21 +141,22 @@
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.111" />
+        app:layout_constraintVertical_bias="0.117" />
 
     <TextView
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
         android:text="20"
         android:textColor="#FFFFFF"
         android:textSize="34sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toTopOf="@+id/question"
+        app:layout_constraintBottom_toBottomOf="@+id/progressBar"
         app:layout_constraintEnd_toEndOf="@+id/progressBar"
         app:layout_constraintHorizontal_bias="0.51"
         app:layout_constraintStart_toStartOf="@+id/progressBar"
         app:layout_constraintTop_toTopOf="@+id/progressBar"
-        app:layout_constraintVertical_bias="0.414" />
+        app:layout_constraintVertical_bias="1.0" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
