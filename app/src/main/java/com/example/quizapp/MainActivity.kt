@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
             }
             else
             {
-                val intent = Intent(this,Question1::class.java)
+                val intent = Intent(this,Mode::class.java)
                 intent.putExtra("${SetData.name}",input.text.toString())
             startActivity(intent)
             }
